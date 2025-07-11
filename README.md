@@ -6,7 +6,7 @@ Hi there, I'm Divyang Tomar — a passionate Computer Engineering student from *
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
 - **Backend:** Node.js, Express.js, REST APIs  
@@ -24,9 +24,9 @@ Hi there, I'm Divyang Tomar — a passionate Computer Engineering student from *
   `MERN + Auth Vault + Role Based Access` – Tracks user expenses with secure login, charts, categories.
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/divyang-tomar-229bb0284/) 
-- 💼 [GitHub Projects](https://github.com/divyang9991)  
+- 🔗 [GitHub Projects](https://github.com/divyang9991)  
 
 ---
