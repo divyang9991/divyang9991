@@ -1,18 +1,18 @@
 # Divyang Tomar
 
-**Aspiring Software Engineer | Full-Stack Developer | GATE AIR 1880 | DSA Enthusiast**
+**Aspiring Software Engineer | Full-Stack Developer | GATE AIR 58 | DSA Enthusiast**
 
-Hi there, I'm Divyang Tomar — a passionate Computer Engineering student from **VGEC, Ahmedabad** driven by curiosity. I thrive on building full-stack apps, solving DSA problems, and continuously learning real-world system design.
+Hi there, I'm Divyang Tomar — a passionate Computer Engineering student from **IIT Bombay** driven by curiosity. I thrive on  solving DSA problems, and continuously learning real-world system design.
 
 ---
 
 ##  Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3  
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB, Mongoose
 - **Tools & DevOps:** Postman, Git, GitHub, VS Code 
-- **CS Fundamentals:** DBMS, OOP, OS, System Design (Beginner), CN
+- **CS Fundamentals:** DBMS, OOP, OS, System Design, CN
 
 ---
 
